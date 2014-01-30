@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+
+# file types #
+.*
+!.gitignore
+
+# directories #
+resources
+http_files
+out
