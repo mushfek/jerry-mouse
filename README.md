@@ -1,4 +1,4 @@
-jerry-mouse
+JerryMouse
 ===========
 
 A Simple HTTP Server
